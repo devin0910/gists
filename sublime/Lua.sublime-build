@@ -1,0 +1,3 @@
+{
+	"cmd": ["D:\\Program Files\\Lua\\5.1\\lua.exe", "$file"], "file_regex": "lua$", "selector": "source.lua"
+}
